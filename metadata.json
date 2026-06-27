@@ -1,0 +1,6 @@
+{
+  "name": "Elite Basket",
+  "description": "An elegant, high-performance, full-stack premium e-commerce solution featuring secure checkout with a Stripe mock gateway, automated order validation, a custom CRM & user rewards program, custom analytical bento grids, real-time package delivery tracking, and a server-side Gemini powered shopping assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
