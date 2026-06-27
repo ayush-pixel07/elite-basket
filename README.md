@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Elite Basket
 
-# Run and deploy your AI Studio app
+**Elite Basket** is a premium full-stack e-commerce platform built with modern web technologies. It provides a seamless shopping experience with real-time order tracking and personalized features.
 
-This contains everything you need to run your app locally.
+## Features
+- **Smart Shopping:** User-friendly product browsing and intuitive checkout.
+- **Real-time Tracking:** Live order status updates from dispatch to delivery.
+- **Loyalty Rewards:** Earn points on every purchase for future discounts.
+- **Interactive Dashboard:** Fast and responsive interface for users and admins.
 
-View your app in AI Studio: https://ai.studio/apps/633fb265-ecf9-48b0-be18-937e5f9bce6e
+## Tech Stack
+- **Frontend:** React, Vite, TypeScript
+- **Backend:** Node.js, Express
+- **Styling:** Tailwind CSS / Custom CSS
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
+## Getting Started
+1. Clone the repository:
+   `git clone https://github.com/ayush-pixel07/elite-basket.git`
+2. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+3. Set up your environment variables (e.g., .env file).
+4. Run the development server:
    `npm run dev`
